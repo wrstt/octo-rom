@@ -1,6 +1,6 @@
 # UMIDIGI C2 Android 13 Stock Rom/Built-OEMISH(oem-ish) so I guesssss-Custom Build but (not really) unless octo-roms-trying out again📱
 
-**Status: Updated as of September 2, 2023 | Build Date: May 9, 2023, by ***THIS PERSON on ******THIS WEBSITE** 🔄
+**Status: Updated as of September 2, 2023 | Build Date: May 9, 2023, by ***[THIS PERSON on ******THIS WEBSITE**](https://wd.needrom.com/2023/06/R1-Umidigi-C2-2023.rar?st=xx2vRZxuh8bIXhgzvTdvcw&e=1693405037) 🔄
 
 This repository contains a custom Android 13 build for the UMIDIGI C2 smartphone. It is a ported version of Google Pixel 4, 4a, 5, and 5a T1BA Google A13 Builds, tailored to match the MediaTek MT6761 chipset. Please note that this is a community-driven project, and the build is not originally mine but has been adapted for UMIDIGI C2. 🤝
 
