@@ -17,6 +17,7 @@ The purpose of this project is to foster future development and experimentation 
 - **octo-rom-oem-mostly-ish:** [Add Link to Inside Repository](insert-link-here)
 - **octo-rom-tryouts:** [Add Link to Inside Repository](insert-link-here)
 - **apks/mediatek/etc:** [Add Link to Inside Repository](insert-link-here)
+- **octo-rom-og-super-img DOWNLOAD***:[Add Link to Inside Repository](insert-link-here)
 
 Considered chipsets: MT6761, MT8785 (Same resolution, TWRP build A1 condition attempted port in octo-rom-tryouts), but also, in 2023, it could have Mediatek MT8781. Please check the provided files for detailed information on the device configuration and properties. 📝
 
